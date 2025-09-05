@@ -37,7 +37,7 @@ A Spring Boot project demonstrating **CRUD and query operations on Customer data
 1. **Clone the repository**
 
 ```bash
-git clone <your-repository-url>
+[git clone <your-repository-url>](https://github.com/Vinod-0315/customer-mongodb-mongotemplate.git)
 cd customer-mongodb-mongotemplate
 ```
 
